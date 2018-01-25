@@ -1,3 +1,21 @@
+# General
+._*
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+.Trashes
+.Spotlight-V100
+*.log
+
+# Data
+*.xls
+*.xlsx
+*.csv
+*.png
+*.jpeg
+*.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
